@@ -1,2 +1,2 @@
 # OpenCV
-Here are some programs manipulating images using OpenCV 
+Here are some programs of manipulating images for our use using OpenCV 
